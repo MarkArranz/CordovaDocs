@@ -1,4 +1,5 @@
 ---
+ms.assetid: b4856f1f-09d8-4020-954f-ea6fae64daca
 title: "Run Your Apache Cordova App on Android"
 description: "Building Apache Cordova apps for Android devices."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "01/27/2017"
 ms.author: "johnwargo"
 ---
+
 
 # Run Your Apache Cordova App on Android
 

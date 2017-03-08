@@ -1,8 +1,10 @@
 ---
+ms.assetid: 56c45b41-467c-4ec6-9614-2d8dc8161ec3
 title: "Cordova whitelist and Content Security Policy guide"
 description: "Cordova whitelist and Content Security Policy guide"
 author: "Chuxel"
 ---
+
 
 # Cordova whitelist and Content Security Policy guide
 

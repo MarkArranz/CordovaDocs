@@ -1,8 +1,10 @@
 ---
+ms.assetid: 09cdfc6a-b2b9-466d-9842-97084c2b150e
 title: "Unit testing environments for JavaScript"
 description: "Unit testing environments for JavaScript"
 author: "kraigb"
 ---
+
 
 #Unit testing environments for JavaScript and Apache Cordova
 Unit testing in an Apache Cordova app means writing tests that exercise the app’s JavaScript code, but this happens outside the context of the running app and outside the context of any given mobile platform. Where unit testing is concerned, that is, it’s actually not particularly relevant that Cordova is involved: the tests and the code under test are loaded and executed into a separate runtime. This has a practical implication about plug-ins and platform features that is dicussed in [Using mocks for platform APIs, plugins, and other external dependencies](unit-test-mocking.md). For now, what’s important is understanding how JavaScript code executes in response to tests.

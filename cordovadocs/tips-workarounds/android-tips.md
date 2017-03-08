@@ -1,4 +1,5 @@
 ---
+ms.assetid: f543e93a-8d61-442e-9027-e3206cb5af56
 title: "Android tips and workarounds"
 description: "Tips and workarounds for building Windows apps using Visual Studio Tools for Apache Cordova."
 author: "kirupa"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "08/21/2016"
 ms.author: "mikejo"
 ---
+
 
 #Android tips and workarounds
 This document covers tips, tricks, and known workarounds for problems with the Cordova Android platform.

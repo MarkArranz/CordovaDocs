@@ -1,4 +1,5 @@
 ---
+ms.assetid: 47b7c9c7-07ef-44f1-9139-586aeb1bf6d6
 title: "Measure the performance of a Cordova app"
 description: "Measure the performance of a Cordova app"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "10/08/2015"
 ms.author: "adamre"
 ---
+
 
 # Measure the performance of a Cordova app
 

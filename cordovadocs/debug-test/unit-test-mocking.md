@@ -1,8 +1,10 @@
 ---
+ms.assetid: d0bbc5e1-1d83-4d1a-addf-e60860e71c4c
 title: "Using mocks"
 description: "Using mocks in JavaScript unit tests."
 author: "kraigb"
 ---
+
 
 #Using mocks for platform APIs, plugins, and other external dependencies
 

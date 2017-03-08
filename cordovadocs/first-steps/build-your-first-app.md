@@ -1,4 +1,5 @@
 ---
+ms.assetid: f251add6-9691-4d4a-b3d6-7d19cfc671a2
 title: "Getting Started with Visual Studio Tools for Apache Cordova"
 description: "Getting Started with Visual Studio Tools for Apache Cordova"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "04/13/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Getting Started With Visual Studio Tools For Apache Cordova
 

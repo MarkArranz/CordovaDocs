@@ -1,4 +1,5 @@
 ---
+ms.assetid: e8daf609-2a26-49c9-b67e-d8f8bfe84c22
 title: "Manage plugins for apps built with Visual Studio Tools for Apache Cordova"
 description: "Manage plugins for apps built with Visual Studio Tools for Apache Cordova"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "09/10/2015"
 ms.author: "normesta"
 ---
+
 
 # Manage plugins for apps built with Visual Studio Tools for Apache Cordova
 

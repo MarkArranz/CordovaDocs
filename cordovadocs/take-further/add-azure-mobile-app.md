@@ -1,4 +1,5 @@
 ---
+ms.assetid: 1f27dbb0-d616-4e2c-8bfa-84b0a8ae5c28
 title: "Add Azure App Service Mobile App"
 description: "Access Data in your Apache Cordova app"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "08/21/2016"
 ms.author: "mikejo5000"
 ---
+
 
 #Add Azure data storage, offline sync, and push notifications
 

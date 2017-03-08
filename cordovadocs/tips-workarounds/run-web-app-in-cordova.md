@@ -1,4 +1,5 @@
 ---
+ms.assetid: 932a8d6c-4f0a-42b6-970f-d4c7fab850c7
 title: "Run Your Hosted Web App in an Apache Cordova App"
 description: "Run Your Hosted Web App in an Apache Cordova App"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "01/27/2017"
 ms.author: "johnwargo"
 ---
+
 
 # Run Your Hosted Web App in an Apache Cordova App
 

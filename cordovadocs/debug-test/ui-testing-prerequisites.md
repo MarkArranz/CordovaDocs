@@ -1,8 +1,10 @@
 ---
+ms.assetid: 271036f9-cd37-44ff-8eee-fb535e69aa79
 title: "UI Testing Prerequisites"
 description: "Prerequisites for building UI tests for Apache Cordova apps, using Appium."
 author: "kraigb"
 ---
+
 
 # Prerequisites
 

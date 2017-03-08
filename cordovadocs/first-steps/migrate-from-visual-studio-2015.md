@@ -1,4 +1,5 @@
 ---
+ms.assetid: c717468b-91fc-4a81-963a-02d999cb08aa
 title: "Migrate a Cordova project to Visual Studio 2017"
 description: "Migrate a Cordova project from Visual Studio 2015 to Visual Studio 2017."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "11/10/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Migrate a Cordova project to Visual Studio 2017
 

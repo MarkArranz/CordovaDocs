@@ -1,4 +1,5 @@
 ---
+ms.assetid: 4be4af7f-89e0-472f-924d-64251a8ade0e
 title: "Visual Studio Core Plugins"
 description: "Using plugins to build Apache Cordova apps in Visual Studio."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "08/04/2016"
 ms.author: "normesta"
 ---
+
 
 # <a id="top"></a>Visual Studio Core Plugins
 

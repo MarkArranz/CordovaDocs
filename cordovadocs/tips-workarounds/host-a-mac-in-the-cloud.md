@@ -1,4 +1,5 @@
 ---
+ms.assetid: bfd89c57-b52b-4439-b7bf-256b4336bf62
 title: "Build and simulate a Cordova iOS app in the cloud"
 description: "Build and simulate a Cordova iOS app in the cloud"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "09/10/2015"
 ms.author: "clantz"
 ---
+
 
 # Build and simulate a Cordova iOS app in the cloud
 

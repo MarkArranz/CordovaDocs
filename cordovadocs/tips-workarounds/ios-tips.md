@@ -1,4 +1,5 @@
 ---
+ms.assetid: 1ac0790f-528c-4a44-9a6e-54bce2a0e40b
 title: "iOS and OSX Tips and Workarounds"
 description: "Tips and workarounds for building iOS apps using Visual Studio Tools for Apache Cordova."
 author: "kirupa"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "09/10/2015"
 ms.author: "kirupac"
 ---
+
 
 #iOS and OSX Tips and Workarounds
 

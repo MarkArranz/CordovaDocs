@@ -1,8 +1,10 @@
 ---
+ms.assetid: 59c6f7e6-8844-44f6-9239-e853b28e90ae
 title: "Using the Chutzpah test runner"
 description: "Using the Chutzpah test runner for Visual Studio."
 author: "kraigb"
 ---
+
 
 #Using the Chutzpah test runner with a Cordova App project
 

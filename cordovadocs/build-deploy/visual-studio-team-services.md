@@ -1,4 +1,5 @@
 ---
+ms.assetid: f26418b0-74a0-4e26-bf40-2ab55b99ea55
 title: "Use Visual Studio Tools for Apache Cordova with Visual Studio Team Services"
 description: "Use Visual Studio Tools for Apache Cordova with Visual Studio Team Services"
 author: "johnwargo"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "02/13/2017"
 ms.author: "johnwargo"
 ---
+
 
 # Use Visual Studio Tools for Apache Cordova with Visual Studio Team Services
 

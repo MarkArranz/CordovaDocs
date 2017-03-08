@@ -1,4 +1,5 @@
 ---
+ms.assetid: 6138f2c4-b977-499f-9de7-591262196841
 title: "Installing Visual Studio Tools for Apache Cordova"
 description: "Installing Visual Studio 2017 Tools for Apache Cordova"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "10/28/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Installing Visual Studio Tools for Apache Cordova
 

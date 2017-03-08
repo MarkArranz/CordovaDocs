@@ -1,8 +1,10 @@
 ---
+ms.assetid: 81f8457c-85ea-4048-a3c3-29ec59717489
 title: "Running UI sequences"
 description: "Testting Apache Cordova applications using Appium UI sequences."
 author: "kraigb"
 ---
+
 
 # Running UI sequences
 

@@ -1,4 +1,5 @@
 ---
+ms.assetid: 40a164ac-631c-41ed-beab-dae290ae1dd1
 title: "Debug your app built with Visual Studio Tools for Apache Cordova"
 description: "Debugging your app built with Visual Studio Tools for Apache Cordova (TACO)."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "07/25/2016"
 ms.author: "clantz"
 ---
+
 
 # Debug your app built with Visual Studio Tools for Apache Cordova
 

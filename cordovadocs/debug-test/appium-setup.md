@@ -1,8 +1,10 @@
 ---
+ms.assetid: b28e75cc-9967-465c-a8e8-d0e8c22bb8b4
 title: "Appium setup"
 description: "Setting up an Appium server to enable UI testing for Apache Cordova applications."
 author: "kraigb"
 ---
+
 
 #Appium setup
 

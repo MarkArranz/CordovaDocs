@@ -1,4 +1,5 @@
 ---
+ms.assetid: e031a1ff-b5a3-447f-9641-3333f205d75a
 title: "Using TypeScript in a Cordova Project"
 description: "Using TypeScript in an Apache Cordova project"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "11/15/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Using TypeScript in a Cordova project
 

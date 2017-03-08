@@ -1,4 +1,5 @@
 ---
+ms.assetid: 351c8d34-702c-4e61-8b2e-a1179beb2b39
 title: "Application Lifecycle Management (ALM) with Apache Cordova Apps"
 description: "Visual Studio and Visual Studio Team Services (VSTS) provide a variety of DevOps capabilities (also referred to as application lifecycle management or ALM) for development organizations, a number of which are applicable to Cordova apps. Tools that are designed for .NET languages like C#, however, do not apply to JavaScript code. Other tools require tight integration with build and runtime environments. Because Cordova apps on Windows run as native apps, you’re able to use a variety of Visual Studio’s diagnostic tools such as performance profilers that are not available for non-Windows platforms."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "02/12/2017"
 ms.author: "johnwargo"
 ---
+
 
 # Application Lifecycle Management (ALM) with Apache Cordova Apps
 

@@ -1,8 +1,10 @@
 ---
+ms.assetid: 4314d75a-5b3b-4a6f-9278-08d5c45a1132
 title: "Understand Cordova platform security"
 description: "Cordova platform and app security"
 author: "clantz"
 ---
+
 
 #Cordova platform security features
 Security is a very broad topic that covers a number of different aspects of an app's lifecycle. Securing an app often represents a number of tradeoffs and key decisions. Like the web, Cordova is a very open platform and as a result it does not force you down a specific path that will always guarantee a secure app. Instead provides a set of tools that you can use to lock down your app as appropriate. A forced lockdown approach can block critical scenarios and thus tends to have undesired results.

@@ -1,8 +1,10 @@
 ---
+ms.assetid: e0921b36-6b45-423d-a0d0-a3ff015b2cec
 title: "UI Testing for Apache Cordova Apps with Appium"
 description: "UI Testing for Apache Cordova Apps with Appium"
 author: "kraigb"
 ---
+
 
 #UI Testing for Apache Cordova Apps with Appium
 

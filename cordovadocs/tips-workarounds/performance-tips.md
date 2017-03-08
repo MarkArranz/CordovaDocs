@@ -1,4 +1,5 @@
 ---
+ms.assetid: 7872e840-d701-4164-87bf-97a1afaf4bba
 title: "Cordova performance tips"
 description: "Cordova performance tips"
 author: "kirupa"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "09/10/2015"
 ms.author: "kirupac"
 ---
+
 
 # Cordova performance tips
 

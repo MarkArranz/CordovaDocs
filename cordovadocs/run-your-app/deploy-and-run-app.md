@@ -1,4 +1,5 @@
 ---
+ms.assetid: a6c05aa1-ecc9-4478-8af6-862dba5d815d
 title: "Cordova build process in Visual Studio"
 description: "The Apache Cordova build process in Visual Studio."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "09/10/2015"
 ms.author: "mikejo"
 ---
+
 
 # Cordova build process in Visual Studio
 

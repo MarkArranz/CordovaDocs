@@ -1,8 +1,10 @@
 ---
+ms.assetid: d2f05197-a8de-45e9-afa8-1a270a1b102c
 title: "Designing and writing UI tests"
 description: "Designing and writing UI tests using JavaScript and Appium."
 author: "kraigb"
 ---
+
 
 # Designing and writing UI tests
 

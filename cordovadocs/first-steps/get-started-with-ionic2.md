@@ -1,4 +1,5 @@
 ---
+ms.assetid: a56a33dd-fc96-440e-a6ee-2650a22d2611
 title: "Getting started with Ionic 2 apps in Visual Studio 2017"
 description: "Getting started with Ionic 2 apps in Visual Studio 2017"
 author: "mikejo5000"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "02/16/2017"
 ms.author: "johnwargo"
 ---
+
 
 # Getting started with Ionic 2 apps in Visual Studio 2017
 
@@ -887,6 +889,7 @@ A few errors are fairly common in the starter templates when debugging in Visual
 [Did you receive a certificate error on Windows?](#certificate)
 
 ---
+
 
 ### <a id="no-templates"></a>I installed the Ionic templates, but they don't appear as an option in Visual Studio
 

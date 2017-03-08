@@ -1,8 +1,10 @@
 ---
+ms.assetid: 9ba8b4d2-b981-42dc-9c01-2bf27b298405
 title: "Debugging UI tests"
 description: "Debugging UI tests, written using Appium."
 author: "kraigb"
 ---
+
 
 # Debugging UI tests
 

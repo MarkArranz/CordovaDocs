@@ -1,4 +1,5 @@
 ---
+ms.assetid: 37e21d70-cf67-4f14-9508-17d653f7e824
 title: "Get Started with Continuous Integration (CI)"
 description: "Streamline CI setup for your Apache Cordova, PhoneGap, Ionic, or Cordova CLI compatible app using a set of useful pre-defined build steps."
 author: "johnwargo"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "02/10/2017"
 ms.author: "johnwargo"
 ---
+
 
 # Get Started with Continuous Integration (CI)
 

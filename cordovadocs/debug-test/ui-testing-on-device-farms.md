@@ -1,8 +1,10 @@
 ---
+ms.assetid: d391e117-9be7-4d73-82b1-d50114eefb01
 title: "Testing on device farms"
 description: "Testing Apache Cordova mobile applications on multiple devices, using device farms."
 author: "kraigb"
 ---
+
 
 # Testing on device farms
 

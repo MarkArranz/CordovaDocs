@@ -1,8 +1,10 @@
 ---
+ms.assetid: 3098aae9-b27d-4dca-82a1-d1bce9a17571
 title: "Basic unit testing with Jasmine and Karma"
 description: "Basic JavaScript unit testing with Jasmine and Karma"
 author: "kraigb"
 ---
+
 
 #Basic unit testing in action with Jasmine and Karma
 

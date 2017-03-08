@@ -1,8 +1,10 @@
 ---
+ms.assetid: 4c866e8d-86cb-4cfb-9c84-c9a4c8a6274e
 title: "Detect security issues using Intune, Active Directory, and Azure"
 description: "Detect security policy and compliance violations using Intune MAM/MDM, Active Directory, and Azure."
 author: "clantz"
 ---
+
 
 # Detect potential security threats
 Security is a very broad topic that covers a number of different aspects of an app's lifecycle. Securing an app often represents a number of tradeoffs and key decisions and even the most carefully crafted app can have unexpected security gaps. Preventing security issues really comes down to following guidence to reduce risk and using tools that help you identify problems before your app has even shipped.

@@ -1,4 +1,5 @@
 ---
+ms.assetid: 5940cb6c-d81e-4a88-aed0-e6bbe3d5f897
 title: "Visual Studio Tools for Apache Cordova: Toolsets"
 description: "Using Toolsets in Visual Studio Tools for Apache Cordova"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "11/04/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Visual Studio Tools for Apache Cordova: Toolsets
 

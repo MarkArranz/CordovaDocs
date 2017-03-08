@@ -1,4 +1,5 @@
 ---
+ms.assetid: d38ed884-3bfb-422c-8801-4a440c496541
 title: "Add Analytics to your Cordova app"
 description: "Add Analytics to your Cordova app"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "01/26/2016"
 ms.author: "sureshja"
 ---
+
 
 #Add Crash Analytics to your Cordova app
 

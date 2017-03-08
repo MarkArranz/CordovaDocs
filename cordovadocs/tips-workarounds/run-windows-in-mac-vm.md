@@ -1,4 +1,5 @@
 ---
+ms.assetid: 147eb854-a559-44b8-a847-0e2b71b4e114
 title: "Build a Cordova app for iOS by using Parallels"
 description: "Build a Cordova app for iOS by using Parallels"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "09/11/2015"
 ms.author: "clantz"
 ---
+
 
 #Build a Cordova app for iOS by using Parallels
 

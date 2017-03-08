@@ -1,4 +1,5 @@
 ---
+ms.assetid: 92e05cda-1e3b-4dac-9836-3c617f8fbef3
 title: "Configure your app built with Visual Studio Tools for Apache Cordova"
 description: "description"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "11/12/2015"
 ms.author: "normesta"
 ---
+
 
 # Add platform-specific content to your Cordova project
 

@@ -1,4 +1,5 @@
 ---
+ms.assetid: 5808a137-2675-46a2-888e-87043c3b539d
 title: "Samples & Examples"
 description: "Apache Cordova Samples we made and examples we like"
 author: "ljzhong"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "05/02/2016"
 ms.author: "lizhong"
 ---
+
 
 # Favorite Samples & Examples
 

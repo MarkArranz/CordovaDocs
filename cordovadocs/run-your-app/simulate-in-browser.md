@@ -1,4 +1,5 @@
 ---
+ms.assetid: 4623453d-a056-4c75-9a33-7a4eb0c6d6da
 title: "Run Your App Using Cordova Simulate"
 description: "Using Cordova Simulate in Visual Studio Tools for Apache Cordova"
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "11/04/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Run Your App Using Cordova Simulate
 

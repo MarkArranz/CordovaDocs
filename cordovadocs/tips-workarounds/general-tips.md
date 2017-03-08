@@ -1,4 +1,5 @@
 ---
+ms.assetid: 67c67071-8f20-466e-b24a-110304e1af53
 title: "General Cordova tips and workarounds"
 description: "Tips and workarounds for building Cordova apps using Visual Studio Tools for Apache Cordova."
 author: "kirupa"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "05/15/2016"
 ms.author: "kirupac"
 ---
+
 
 #General Cordova tips and workarounds
 This document covers tips, tricks, and known workarounds for general issues with Cordova or Tools for Apache Cordova.

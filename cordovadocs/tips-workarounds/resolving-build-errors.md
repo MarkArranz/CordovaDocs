@@ -1,4 +1,5 @@
 ---
+ms.assetid: 4013ae2e-98fa-454c-a37a-d7ba70a4c647
 title: "Android tips and workarounds"
 description: "Android tips and workarounds"
 author: "kirupa"
@@ -12,6 +13,7 @@ ms.workload: "na"
 ms.date: "09/10/2015"
 ms.author: "kirupac"
 ---
+
 
 #Resolve build and deployment errors
 

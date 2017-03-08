@@ -1,4 +1,5 @@
 ---
+ms.assetid: b1d540d7-7c48-4308-b311-a74fe2e19ac2
 title: "Visual Studio Tools for Apache Cordova: iOS Guide"
 description: "Using the Visual Studio Tools for Apache Cordova to build iOS apps."
 services: "na"
@@ -13,6 +14,7 @@ ms.workload: "na"
 ms.date: "11/11/2016"
 ms.author: "johnwargo"
 ---
+
 
 # Visual Studio Tools for Apache Cordova: iOS Guide
 
